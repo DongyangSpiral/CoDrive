@@ -1,4 +1,4 @@
-# Sandou Drive（UAMS）
+# CO Drive（UAMS）
 
 Sandou Drive 是一个前后端分离的企业文件协作平台，基于 UAMS 统一认证管理系统扩展，提供用户认证、系统管理、文件管理、团队协作、文件分享、在线预览和 AI 文档助手等能力。
 
